@@ -175,7 +175,7 @@ export default () => (
     <Section id="utilities" name="Utilities">
       <Topic name="Code checking tool" parentId="utilities" index="0">
         <ResourceLink text="Diffchecker" href="https://www.diffchecker.com/"/>
-        <ResourceLink text="foront-end-handbook" href="https://frontendmasters.com/books/front-end-handbook/2019/"/>
+        <ResourceLink text="front-end-handbook" href="https://frontendmasters.com/books/front-end-handbook/2019/"/>
               
       </Topic>
     </Section>
